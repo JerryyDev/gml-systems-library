@@ -4,6 +4,12 @@ Sistema de menu funcional com navegação e configuração de resolução, pront
 
 ---
 
+## 📘 Guia completo
+
+👉 Veja o passo a passo aqui: [Como usar](./GUIDE.md)
+
+---
+
 ## 🚀 Funcionalidades
 
 - Navegação com teclado (↑ ↓)
