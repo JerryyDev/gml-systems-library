@@ -31,7 +31,7 @@ Add the **CREATE**, **STEP**, and **DRAW** code into:
 
 ---
 
-
+👉 [View code obj_config_res](./CODE_3.md)
 
 ---
 
