@@ -38,4 +38,4 @@ Criar sistemas reutilizáveis para jogos, com foco em simplicidade, organizaçã
 
 ## 📬 Contato
 
-Discord: f1lx7830
+Discord: fl1x7830
