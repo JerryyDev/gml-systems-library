@@ -54,3 +54,7 @@ for (var i = 0; i < array_length(opcoes); i++) {
     draw_text_transformed(xx,yy,opcoes[i],OptionXS,OptionYS,0);
     draw_set_font(-1);
 }
+
+---
+
+👉[Next CODE](./CODE_3.md)
