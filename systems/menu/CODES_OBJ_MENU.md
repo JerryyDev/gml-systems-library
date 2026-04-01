@@ -8,6 +8,7 @@ menu_scale = array_create(array_length(menu_text), 1);
 tittle = "Titulo Do Jogo";
 
 title_x = display_get_gui_width() / 2;
+
 title_y = display_get_gui_height() / 2 - 220;
 
 title_time = 0;
