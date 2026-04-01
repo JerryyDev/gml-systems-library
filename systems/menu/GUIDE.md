@@ -43,6 +43,12 @@ Selecione uma opção no menu de configurações e pressione ENTER.
 
 ---
 
+## 📘 CODES
+
+👉 Veja o CODE: [CODE obj_menu](./CODES_OBJ_MENU.md)
+
+---
+
 ## ✔ Pronto
 
 O sistema já estará funcionando no seu jogo.
