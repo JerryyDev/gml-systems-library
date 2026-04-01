@@ -6,7 +6,7 @@ Functional menu system with keyboard navigation and resolution settings, ready t
 
 ## 🎥 Preview
 
-![preview](preview.gif)
+![preveiew](https://github.com/user-attachments/assets/9b662747-0b6d-43b4-b49e-19a82c7cfbe8)
 
 ---
 
