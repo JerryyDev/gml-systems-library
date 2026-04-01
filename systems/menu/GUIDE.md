@@ -23,7 +23,7 @@ Add the **CREATE**, **STEP**, and **DRAW** code into:
 - `obj_menu_configs`
 - `obj_config_res`
 
-👉 [View code](./CODE.md)
+👉 [View code obj_menu](./CODE.md)
 
 ---
 
