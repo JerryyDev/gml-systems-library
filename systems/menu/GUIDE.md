@@ -1,54 +1,65 @@
-# 📘 Como usar o sistema de Menu
+# 📘 How to use the Menu System
 
-## AVISO!!
-Antes de fazer o passo a passo verefique se as Rooms estão com os nomes certos
-agradeço a gentileza :)
-
-## 1. Criar o objeto
-
-Crie um objeto chamado `obj_menu`.
-Crie um objeto chamado `obj_menu_configs`.
-Crie um objeto chamado `obj_config_res`.
+> ⚠️ **Warning**  
+> Before starting, make sure your rooms are named correctly.
 
 ---
 
-## 2. Adicionar o código
+## 🧱 1. Create the objects
 
-Adicione os códigos de CREATE, STEP e DRAW no `obj_menu`,
- `obj_menu_configs`, `obj_config_res`.
+Create the following objects:
 
----
-
-## 3. Colocar na room
-
-Adicione o `obj_menu` na primeira room do jogo.
-Adicione o `obj_menu_configs` na room onde o jogador irá navegar nas configurações.
-Adicione o `obj_config_res` na room onde o jogador irá escolher as Resoluções.
+- `obj_menu`
+- `obj_menu_configs`
+- `obj_config_res`
 
 ---
 
-## 4. Testar
+## 💻 2. Add the code
 
-Execute o jogo e use:
+Add the **CREATE**, **STEP**, and **DRAW** code into:
 
-- ↑ ↓ para navegar  
-- ENTER para selecionar  
-- ESC para voltar  
+- `obj_menu`
+- `obj_menu_configs`
+- `obj_config_res`
 
----
-
-## 5. Alterar resolução
-
-Selecione uma opção no menu de configurações e pressione ENTER.
+👉 [View code](./CODE.md)
 
 ---
 
-## 📘 CODES
+## 🏠 3. Add to rooms
 
-👉 Veja o CODE: [CODE obj_menu](./CODES_OBJ_MENU.md)
+Place the objects in the correct rooms:
+
+- `obj_menu` → First room (main menu)  
+- `obj_menu_configs` → Settings room  
+- `obj_config_res` → Resolution selection room  
 
 ---
 
-## ✔ Pronto
+## ▶️ 4. Run the game
 
-O sistema já estará funcionando no seu jogo.
+Start the game and use:
+
+- ↑ ↓ → Navigate  
+- ENTER → Select  
+- ESC → Go back  
+
+---
+
+## ⚙️ 5. Change resolution
+
+Go to the settings menu, select a resolution option and press **ENTER**.
+
+---
+
+## ✔ Done
+
+The system is now working in your game.
+
+---
+
+## 💡 Tips
+
+- You can add more menu options by editing the arrays  
+- You can expand the system by adding more states  
