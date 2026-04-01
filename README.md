@@ -1,41 +1,46 @@
 # 🎮 GML Systems Library
 
-> Sistemas prontos para uso em jogos 2D.
-
-Coleção de sistemas desenvolvidos em GML, focados em funcionamento real dentro do jogo.
+Collection of reusable game systems built with GML, focused on real gameplay usage.
 
 ---
 
-## 🚀 Sistemas disponíveis
+## 🚀 Available Systems
 
 ### 🖥️ Menu
-Sistema de menu com navegação e configurações  
-📂 systems/menu
+Simple menu system with navigation and resolution settings.
+
+👉 [View system](./systems/menu)
 
 ---
 
-### 🎒 Inventário (em breve)
-Sistema com coleta, drop e organização de itens  
+### 📦 Inventory (coming soon)
+Item collection, drop and organization system.
 
 ---
 
-### 👾 Inimigos (em breve)
-Sistema com comportamento básico de inimigos  
+## 🎥 Preview
+
+Each system includes a preview (GIF) and a step-by-step guide inside its folder.
 
 ---
 
-## 🎥 Demonstrações
+## 💡 About
 
-(Coloque gifs ou vídeos aqui)
+All systems are built with focus on:
+
+- Real usage in games  
+- Clean and organized code  
+- Easy integration  
+- Simplicity over complexity  
 
 ---
 
-## 💡 Objetivo
+## 📬 Contact
 
-Criar sistemas reutilizáveis para jogos, com foco em simplicidade, organização e aplicação real.
+💬 Discord: fl1x7830  
 
 ---
 
-## 📬 Contato
+## 👤 Author
 
-Discord: fl1x7830
+Developed by JerryDev
