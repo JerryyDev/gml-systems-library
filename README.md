@@ -9,7 +9,7 @@ Collection of reusable game systems built with GML, focused on real gameplay usa
 ### 🖥️ Menu
 Simple menu system with navigation and resolution settings.
 
-👉 [View system](./systems/menu)
+👉 [View system](./systems/menu/DESCRIPTION.md)
 
 ---
 
