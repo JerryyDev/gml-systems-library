@@ -19,8 +19,7 @@ Item collection, drop and organization system.
 ---
 
 ## 🎥 Preview
-
-Each system includes a preview (GIF) and a step-by-step guide inside its folder.
+![preveiew](https://github.com/user-attachments/assets/13930d85-bf52-4f1b-9cd7-b9773a614ea1)
 
 ---
 
